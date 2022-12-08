@@ -31,5 +31,5 @@ PDF, eSigning and productivity software with insightful business intelligence, a
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed for free to enjoy forever. License - see the LICENSE.md file for details
 
